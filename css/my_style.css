@@ -1,0 +1,61 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 18px;
+}
+
+.material-icons.contact{
+    color: white;
+    padding-right: 5px;
+}
+
+.material-icons.tiny{
+    color: blue;
+}
+
+.experience-title{
+    margin-top: 1.3em;
+    margin-bottom: 0em;
+    
+}
+
+.row .col{
+    padding: 0rem;
+}
+
+.row{
+    margin-bottom: 0.5rem;
+}
+
+.date-loc{
+    font-style: italic;
+    color: #616161;
+}
+
+ul{
+    list-style-type: circle;
+    line-height: 18px;
+    margin-left: 1.0em;  
+}
+
+ol{
+    list-style-type: decimal;
+    line-height: 18px;
+    margin-left: 1.0em;  
+}
+
+li{
+    line-height: inherit;
+    margin-top: 0.5em;
+}
+
+.section-title{
+    margin-top: 2.0em;
+}
+
+.skills-title{
+    margin-top: 1.0em;
+}
+
+.material-icons.tiny.sup{
+    color: white;
+}
