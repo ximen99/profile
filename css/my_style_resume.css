@@ -1,6 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     line-height: 18px;
+    font-size: 15px;
 }
 
 .material-icons.contact{
@@ -13,7 +14,7 @@ body {
 }
 
 .experience-title{
-    margin-top: 1.3em;
+    margin-top: 1em;
     margin-bottom: 0em;
     
 }
@@ -31,25 +32,25 @@ body {
     color: #616161;
 }
 
-ul{
+.whole ul{
     list-style-type: circle;
     line-height: 18px;
     margin-left: 1.0em;  
 }
 
-ol{
+.whole ol{
     list-style-type: decimal;
     line-height: 18px;
     margin-left: 1.0em;  
 }
 
-li{
+.whole li{
     line-height: inherit;
     margin-top: 0.5em;
 }
 
 .section-title{
-    margin-top: 2.0em;
+    margin-top: 1.3em;
 }
 
 .skills-title{
@@ -59,3 +60,4 @@ li{
 .material-icons.tiny.sup{
     color: white;
 }
+

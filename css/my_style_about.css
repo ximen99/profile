@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 18px;
+    font-size: 15px;
+}
+
+
+.card ul{
+    list-style-type: circle;
+    margin-left: 1em;
+}
+
+.third-row{
+    height: 280px;
+}
